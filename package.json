@@ -1,0 +1,28 @@
+{
+  "name": "tempvoice-ssrank",
+  "version": "1.2.0",
+  "description": "Bot for creating tempvoices. Fast & simple",
+  "main": "tempvoice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gorgulenkozxc/tempvoice-ssrank.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "tempvoice",
+    "discord"
+  ],
+  "author": "ssrankedghoul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gorgulenkozxc/tempvoice-ssrank/issues"
+  },
+  "homepage": "https://github.com/gorgulenkozxc/tempvoice-ssrank#readme",
+  "devDependencies": {
+    "discord.js": "^13.8.0"
+  }
+}
